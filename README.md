@@ -1,2 +1,10 @@
-# empirical-mode-decomposition-EMD-
+# Empirical Mode Decomposition (EMD)
+
+<p float="left">
+<a href = "https://github.com/zaman13/empirical-mode-decomposition-EMD-/tree/main/Codes"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
+<a href = "https://github.com/zaman13/empirical-mode-decomposition-EMD-/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/zaman13/Poisson-solver-2D" alt="alt text"></a>
+<a href = "https://github.com/zaman13/empirical-mode-decomposition-EMD-/tree/main/Codes"> <img src="https://img.shields.io/badge/version-0.2-red" alt="alt text"> </a>
+</p>
+
+
 Python implementation of Empirical Mode Decomposition (EMD)
