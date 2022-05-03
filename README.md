@@ -8,3 +8,15 @@
 
 
 Python implementation of Empirical Mode Decomposition (EMD)
+
+
+
+
+
+## Example Results
+
+EMD of Kobe 1995 earthquake. Time (min) vs vertical acceleration (nm/s^2) data.
+<p float="right">
+  <img src="https://github.com/zaman13/Empirical-Mode-Decomposition-EMD/blob/main/Kobe_1.png"  width = "1400" />
+  
+</p>  
