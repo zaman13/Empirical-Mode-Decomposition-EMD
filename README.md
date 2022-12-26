@@ -7,7 +7,7 @@
 </p>
 
 
-Python implementation of Empirical Mode Decomposition (EMD)
+Python implementation of Empirical Mode Decomposition (EMD). The code is currently very sensitive to the input parameter values. 
 
 
 
